@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630208010505",
+    "project_id": "mycraft-9ae5d",
+    "storage_bucket": "mycraft-9ae5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630208010505:android:9118fdc050387b35f7dbd8",
+        "android_client_info": {
+          "package_name": "com.example.hraftiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNK4d5ZgFRi6Z_ct-11dj-jSgmtsNpKDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

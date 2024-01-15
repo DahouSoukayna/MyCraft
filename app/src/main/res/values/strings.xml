@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">hraftiProject</string>
+    <string name="LoginImg">LoginImg</string>
+    <string name="email">  Email</string>
+    <string name="password">TextView</string>
+    <string name="mot_de_passe">  Mot de passe</string>
+    <string name="login">TODO</string>
+    <string name="flesh">TODO</string>
+    <string name="textemail">Email :</string>
+    <string name="imagenext">TODO</string>
+    <string name="textpaswd">Mot de passe :</string>
+    <string name="textconnect">Se connecter</string>
+    <string name="s_inscrire">s\'inscrire.</string>
+    <string name="mot_de_passe_oublie">Mot de passe oublié?</string>
+    <string name="entrer_votre_email">entrer votre email</string>
+    <string name="entrer_le_nouveau_mot_de_passe">Entrer le nouveau mot de passe</string>
+    <string name="re_enter_mot_de_passe">Re-entrer mot de passe</string>
+    <string name="valideReset">Valide</string>
+    <string name="view_profile">View Profile</string>
+    <string name="nonInscrie">vous n\'êtes pas encore inscrit ?</string>
+
+    <string name="select">Select Item</string>
+    <string name="imagelogo">ImageLogo</string>
+    <string name="pagefp">pagefp</string>
+    <string name="Imagelg">TODO</string>
+    <string name="valider">Valider</string>
+    <string name="ImagePack">TODO</string>
+    <string name="Imagetest">TODO</string>
+</resources>
