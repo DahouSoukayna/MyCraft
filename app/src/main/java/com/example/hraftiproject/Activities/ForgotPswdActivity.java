@@ -45,7 +45,7 @@ public class ForgotPswdActivity extends AppCompatActivity {
                 Boolean checkEmail= database.checkEmail(email);
                 if (checkEmail){
                     Intent i = new Intent(getApplicationContext(), ResetPasswordActivity.class);
-                    i.putExtra("email",email);
+                    i.putExtra("email",email);//
                     startActivity(i);
                 }
                 else{
