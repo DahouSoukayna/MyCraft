@@ -2,7 +2,7 @@ package com.example.hraftiproject.Database;
 
 
 import android.graphics.Bitmap;
-        import android.graphics.BitmapFactory;
+        import android.graphics.BitmapFactory;//
         import android.util.Log;
 
 import com.example.hraftiproject.Model.JobModel;
