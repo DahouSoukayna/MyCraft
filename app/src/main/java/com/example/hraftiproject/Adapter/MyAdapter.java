@@ -61,7 +61,7 @@ public class MyAdapter  extends RecyclerView.Adapter<HomeActivity.ViewHolder> {
     public int getItemCount() {
         return jobsArrayList.size();
     }
-
+//
 
 
 
